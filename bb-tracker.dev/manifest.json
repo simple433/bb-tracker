@@ -1,0 +1,22 @@
+{
+  "name": "KS Smart Solutions - Field Call Tracker",
+  "short_name": "Field Calls",
+  "description": "Hi-Tech Lab Field Engineer Daily Call Tracker & Reporting App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "https://kssmart.co/wp-content/uploads/2023/01/cropped-KS-Smart-Logo-Mark-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://kssmart.co/wp-content/uploads/2023/01/cropped-KS-Smart-Logo-Mark-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
